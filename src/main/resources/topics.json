@@ -1,0 +1,54 @@
+{
+  "Quantitative Aptitude": [
+    "Arithmetic",
+    "Algebra",
+    "Geometry",
+    "Trigonometry",
+    "Time and Work",
+    "Time Speed and Distance",
+    "Pipes and Cisterns",
+    "Number System",
+    "Percentage and Ratio",
+    "Profit Loss and Discount",
+    "Simple and Compound Interest",
+    "Mixtures and Alligations",
+    "Sequence and Series",
+    "Permutation and Combination",
+    "Probability",
+    "Statistics and Data Interpretation"
+  ],
+  "Logical Reasoning": [
+    "Puzzles",
+    "Coding Decoding",
+    "Blood Relation",
+    "Syllogism",
+    "Analogy",
+    "Classification",
+    "Direction and Distance",
+    "Calendar and Clock",
+    "Ranking and Arrangement",
+    "Statement and Conclusion",
+    "Critical Reasoning"
+  ],
+  "Verbal Ability": [
+    "Grammar",
+    "Vocabulary",
+    "Reading Comprehension",
+    "Sentence Correction",
+    "Paragraph Completion",
+    "Spotting Errors",
+    "Synonyms and Antonyms",
+    "Sentence Arrangement",
+    "Idioms and Phrases"
+  ],
+  "Data Interpretation": [
+    "Tabular Data",
+    "Bar Charts",
+    "Pie Charts",
+    "Line Graphs",
+    "Mixed Graphs",
+    "Data Sufficiency",
+    "Caselets",
+    "Comparison Based"
+  ]
+}

@@ -1,0 +1,390 @@
+
+{
+  "questions": [
+  {
+    "question": "Mohan can do a work in 15 days. After working for 3 days he is joined by Vinod. If they complete the remaining work in 3 more days, in how many days can Vinod alone complete the work?",
+    "options": [
+      "10 days",
+      "8 days",
+      "5 days",
+      "12 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Total days Mohan worked = 3+3 = 6 \n6/15 = 2/5 \nSo 3/5 = 3/x \nx = 5"
+  },
+  {
+    "question": "Arun can do a certain work in the same time in which Bipasha and Rahul together can do it. If Arun and Bipasha together could do it in 10 days and Rahul alone in 50 days, then Bipasha alone could do it in:",
+    "options": [
+      "15 days",
+      "20 days",
+      "25 days",
+      "30 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Arun, Bipasha and rahul’s 1 day work = 1/10 + 1/50 = \n6/50 = 3/25 \nArun’s 1 day work = Bipasha + Rahul ‘s 1 day work \n2*( Arun’s 1 day work) = 3/25 \nArun’s 1 day work = 3/50 \nBipasha’s 1 day work = 1/10 – 3/50 = 2/50 = 1/25"
+  },
+  {
+    "question": "Sekar, Pradeep and Sandeep can do a piece of work in 15 days. After all the three worked for 2 days, sekar left. Pradeep and Sandeep worked for 10 more days and Pradeep left. Sandeep worked for another 40 days and completed the work. In how many days can sekar alone complete the work if sandeep can complete it in 75 days?",
+    "options": [
+      "25 days",
+      "20 days",
+      "30 days",
+      "35 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Assume the total work to be 600 units (LCM of all the numbers). Then Sandeep’s 1 day work = 8 units. All three’s 1 day work = 40 units. Work done in the first 2 days = 40 × 2 = 80 units. Sandeep alone works during the last 40 days. Work done in the last 40 days = 40 × 8 = 320 units. Remaining work = 600 – (320 + 80) = 200 units. This work is done by pradeep and sandeep in 10 days. Pradeep and Sandeep together’s 1 day work = 20 units. Sekar’s 1 day work = All three 1 day work – Pradeep and Sandeep together’s 1 day work = 40 units – 20 units = 20 units. Sekar can do the work of 600 units in 30 days."
+  },
+  {
+    "question": "Dinesh does 80% of a work in 20 days. He then calls in Gokul and they together finish the remaining work in 3 days. How long Gokul alone would take to do the whole work?",
+    "options": [
+      "39 days",
+      "37 days",
+      "37 ½ days",
+      "40 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Dinesh work done = 20*5/4 = 25 days. 1/5 workdone by Dinesh and gokul in 3days. Whole work done = 15 days. Dinesh 1 days work = 1/25. Dinesh and gokul’s 1 day work = 1/15. Gokul’s 1 day work = 1/15 – 1/25 = 2/75. Gokul alone in 75/2 days or 37 ½ days."
+  },
+  {
+    "question": "Hari and Vijay can together finish a work in 30 days. They worked together for 20 days and then Vijay left. After another 20 days, hari finished the remaining work. In how many days hari alone can finish the work?",
+    "options": [
+      "45",
+      "60",
+      "35",
+      "50"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Hari + vijay 20 days work = 1/30 *20 = 2/3 \nRemaining work = 1/3 \n1/3 work in 20 days so whole work in 60 days."
+  },
+  {
+    "question": "Madhavan can finish a work in 5 hours. He invites Manohar and Manjima who can work 3/4th as fast as he can to join him. He also invites Mani and Mohan who can work only 1/5th as fast as he can to join him. If the five person team works the same job and they start together, how long will it take for them to finish the job?",
+    "options": [
+      "50/97 days",
+      "87 days",
+      "50/29 days",
+      "78 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Let the work be 100 units. Madhavan’s 1 hour work = 100/5 = 20 units. Manohar and Manjima’s 1 day work = 3/4 × 20 = 15 units. Mohan and Mani’s 1 day work = 1/5 × 20 = 4 units. In one day all five of them can do = 20 + 15 + 15 + 4 + 4 = 58 units of work. Hence they can complete the work in 100/58 days."
+  },
+  {
+    "question": "A typing work is done by three person P, Q and R. P alone takes 10 hours to type a single booklet but B and C working together takes 4 hours, for the completion of the same booklet. If all of them worked together and completed 14 booklets, then how many hours have they worked?",
+    "options": [
+      "30hrs",
+      "40hrs",
+      "25hrs",
+      "45hrs"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "1/P = 1/10 \n1/P + 1/Q + 1/R = 1/10 + ¼ = 7/20 \nIn 20 hours, working together, they will complete 7 booklets. Thus, in 40 hours they will complete 14 booklets."
+  },
+  {
+    "question": "Nakul and Ram are working on a production company. Nakul takes 6 hours to make 32 products, while Ram takes 5 hours to make 40 products. How much time will they take, working together to make 110 products?",
+    "options": [
+      "8 hours",
+      "8 hours 15 minutes",
+      "9 hours",
+      "8 hours 25 minutes"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Number of products made by Nakul in 1 hour = 32/6 = 16/3. Number of products made by Ram in 1 hour = 40/5 = 8. Number of products made by both in 1 hour = 16/3 + 8 = 40/3. Time taken by both to make 110 products = 110 * 3/40 = 8 ¼ hrs."
+  },
+  {
+    "question": "Gopal does a work in 90 days, Vikash in 40 days and Santhosh in 12 days. They work one after another for a day each, starting with Gopal followed by Vikash and then by Santhosh. If the total wages received are Rs 360 and Gopal, Vikash, Santhosh share them in the ratio of the work done, find their respective individual wages.",
+    "options": [
+      "Rs 44, Rs 80 and Rs 264",
+      "Rs 40, Rs 87 and Rs 276",
+      "Rs 36, Rs 81 and Rs 243",
+      "Rs 42, Rs 86 and Rs 232"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Assume there are 360 units of work (LCM of 90, 40 and 12). Hence, they can do 4, 9 and 30 units per day or together 43 units every 3 days. So In 24 days, 43×8=344 units of work is completed. In the next 2 days, 13 units are completed and on 27th day, Santhosh takes 1/10th of a day to finish the rest. So, gopal and vikash worked for 9 days each and have hence put in 36 and 81 units respectively, and the rest of the 243 units is put in by santhosh. The wages shall also be distributed in the same ratio as: Rs 36, Rs 81 and Rs 243."
+  },
+  {
+    "question": "When Ashok and Karthik are working alone, they can complete a piece of work in 25 days and 30 days respectively. On day 1, Karthik started the work and Ashok joined from day 3 onwards. Find approximately after how many days will the work be completed?",
+    "options": [
+      "20 days",
+      "10 days",
+      "15 days",
+      "25 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Fraction of work completed by Karthik on day 1 and day 2 = 2 * 1/30 = 1/15. Fraction of work left after 2 days = 14/15. Fraction of work completed by Both = 1/25 + 1/30 = 11/150. Number of days after day 2 to complete work = 14*150/15*11 = 13 days. So after 2+13 = 15 days works will be completed."
+  },
+  {
+    "question": "P can do 2/5 of the work in 10 days and Q can do 4/5 of the work in 16 days. If both of them start working together then the time in which the work can be done?",
+    "options": [
+      "12.1/9 days",
+      "11.1/9 days",
+      "11.2/9 days",
+      "12.4/9 days"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "P can complete the work in 25 days and Q can complete the work in 20 days. So both will complete the work in (20*25)/45 = 100/9 days."
+  },
+  {
+    "question": "A does half as much work as B does in one sixth of the time. If together they take 20 days to complete the work, then what is the time taken by B to complete the work independently.",
+    "options": [
+      "80 days",
+      "100 days",
+      "120 days",
+      "140 days"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Let B take X days to complete the work then in one-sixth of the time i.e. x/6 days. Now A do half work as done by B so A will take twice the time i.e. 2*x/6 = x/3 to complete the job alone. So 1/x + 3/x = 1/20, x = 80 days."
+  },
+  {
+    "question": "A contractor undertakes to make a mall in 60 days and he employs 30 men. After 30 days it is found that only one-third of the work is completed. How many extra men should he employ so that the work is completed on time?",
+    "options": [
+      "20men",
+      "25men",
+      "30men",
+      "40men"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Let total work is w and it is given that one-third of the work is completed after 30 days. Means M*D = 30*30 = w/3, so total work = 30*30*3. 2700 = 30*30 + (30+p)*30, so we get P = 30 (p = additional men)."
+  },
+  {
+    "question": "50 men could complete a work in 200 days. They worked together for 150 days, after that due to bad weather the work is stopped for 25 days. How many more workers should be employed so as to complete the work in time?",
+    "options": [
+      "25",
+      "35",
+      "50",
+      "60"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Let additional workers be P. (50*150)/(50*200) = 3/4 of the work is already completed and now only 1/4 of the work is to be done. So, 1/4 = ((50 + P) * 25)/50*200, solve for p, we get P = 50."
+  },
+  {
+    "question": "P and Q were assigned to do a work for an amount of 1200. P alone can do it in 15 days while Q can do it in 12 days. With the help of R they finish the work in 6 days. Find the share of R.",
+    "options": [
+      "100",
+      "120",
+      "140",
+      "160"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "1/15 + 1/12 + 1/r = 1/6, we got R = 60 (it means R will take 60 days to complete the work alone). So ratio of work done by P:Q:R = 4:5:1. So R's share = (1/10)*1200 = 120."
+  },
+  {
+    "question": "A can do a work in 32 days. P who is 60 percent more efficient than A. Find how much time they will take together to do the same work?",
+    "options": [
+      "150/13 days",
+      "160/13 days",
+      "170/3 days",
+      "190/3 days"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "A’s one day work = 1/32 so P one day work = (160/100)*1/32 = 1/20, so P will take 20 days to complete the work. So Both A and P will take = (32*20)/52 = 160/13 days."
+  },
+  {
+    "question": "P does half as much work as Q in three-fourth of the time. If together they take 24 days to complete the work, how much time shall P take to complete the work?",
+    "options": [
+      "50 days",
+      "60 days",
+      "70 days",
+      "80 days"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Let Q take x days to complete the work, so P will take 2*3/4 of X day to complete the work i.e. 3x/2 days. 1/x + 2/3x = 1/24, we get x = 40 days, so P will take = 3/2 of 40 = 60 days."
+  },
+  {
+    "question": "Neha takes 5 hours to type 40 pages while sunil takes 6 hours to type 60 pages. How much time will they take working together on different computer to type an assignment of 180 pages.",
+    "options": [
+      "5hr",
+      "7hr",
+      "9hr",
+      "10hr"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "In one hour number of pages type by neha = 40/5 = 8 and similarly for sunil it is 60/6 = 10. Now to type 180 pages they will take, (8 + 10)*T = 180, T = 10 hours."
+  },
+  {
+    "question": "P and Q together can complete a job in 90days, Q and R takes 60 days to complete the same work and P and R will take 45 days to complete the same work. How much time will P, Q and R will take to complete the work together.",
+    "options": [
+      "40 days",
+      "42 days",
+      "36 days",
+      "44 days"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "(1/90 + 1/60 + 1/45)*1/2 = (1/P +1/Q + 1/R) = 1/40, so 40 days."
+  },
+  {
+    "question": "A is thrice as good a workman as B and takes 10 days less to do a piece of work than B takes. B alone can do the whole work in",
+    "options": [
+      "15 days",
+      "10 days",
+      "9 days",
+      "8 days"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Ratio of times taken by A and B = 1:3. Means B will take 3 times which A will do in 1 time. If difference of time is 2 days, B takes 3 days. If difference of time is 10 days, B takes (3/2) * 10 = 15 days."
+  },
+  {
+    "question": "A does half as much work as B in three-fourth of the time. If together they take 18 days to complete the work, how much time shall B take to do it",
+    "options": [
+      "40 days",
+      "35 days",
+      "30 days",
+      "25 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Suppose B takes x days to do the work. As per question A will take 2 * (3/4) * x = 3x/2 days. (A+B)s 1 days work = 1/18. 1/x + 2/3x = 1/18 or x = 30 days."
+  },
+  {
+    "question": "Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do same job.",
+    "options": [
+      "40/9 hours",
+      "24/9 hours",
+      "34/9 hours",
+      "44/9 hours"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "A's 1 hour work is 1/8. B's 1 hour work is 1/10. (A+B)'s 1 hour work = 1/8 + 1/10 = 9/40. So both will finish the work in 40/9 hours."
+  },
+  {
+    "question": "5 men and 2 boys working together can do four times as much work as a man and a boy. Working capacity of man and boy is in the ratio",
+    "options": [
+      "1:2",
+      "1:3",
+      "2:1",
+      "2:3"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Let 1 man 1 day work = x, 1 boy 1 day work = y. Then 5x + 2y = 4(x+y) => x = 2y => x/y = 2/1 => x:y = 2:1."
+  },
+  {
+    "question": "A piece of work can be done by 6 men and 5 women in 6 days or 3 men and 4 women in 10 days. It can be done by 9 men and 15 women in how many days ?",
+    "options": [
+      "3 days",
+      "4 days",
+      "5 days",
+      "6 days"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Let 1 man 1 day work = x and 1 woman 1 days work = y. => 6x+5y = 1/6 and 3x+4y = 1/10. On solving, we get x = 1/54 and y = 1/90. (9 men + 15 women)'s 1 days work = (9/54) + (15/90) = 1/3. 9 men and 15 women will finish the work in 3 days."
+  },
+  {
+    "question": "A can do a piece of work in 15 days and B alone can do it in 10 days. B works at it for 5 days and then leaves. A alone can finish the remaining work in",
+    "options": [
+      "5 days",
+      "6 days",
+      "7.5 days",
+      "8.5 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "B's 5 days work = 1/10 * 5 = 1/2. Remaining work = 1 - 1/2 = 1/2. A can finish remaining work = 15 * 1/2 = 7.5 days."
+  },
+  {
+    "question": "To complete a work A and B takes 8 days, B and C takes 12 days, A,B and C takes 6 days. How much time A and C will take",
+    "options": [
+      "24 days",
+      "16 days",
+      "12 days",
+      "8 days"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "A+B 1 day work = 1/8, B+C 1 day work = 1/12, A+B+C 1 day work = 1/6. A's 1 day work = (A+B+C) - (B+C) = 1/6 - 1/12 = 1/12. C's 1 day work = (A+B+C) - (A+B) = 1/6 - 1/8 = 1/24. A and C 1 day work together = 1/12 + 1/24 = 3/24 = 1/8. So A and C can together do this work in 8 days."
+  },
+  {
+    "question": "A and B can together complete a piece of work in 4 days. If A alone can complete the same work in 12 days, in how many days can B alone complete that work ?",
+    "options": [
+      "4 days",
+      "5 days",
+      "6 days",
+      "7 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "(A+B)'s 1 day work = 1/4. A's 1 day work = 1/12. B's 1 day work = 1/4 - 1/12 = 2/12 = 1/6. So B alone can complete the work in 6 days."
+  },
+  {
+    "question": "A can do a certain job in 25 days which B alone can do in 20 days. A started the work and was joined by B after 10 days. The number of days taken in completing the work were ?",
+    "options": [
+      "14 days",
+      "15 days",
+      "16 days",
+      "16 2/3 days"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "Work done by A in 10 days = (1/25) * 10 = 2/5. Remaining work = 1 - 2/5 = 3/5. (A+B)'s 1 day work = 1/25 + 1/20 = 9/100. Days for remaining work = (3/5) * (100/9) = 20/3 = 6 2/3 days. Total time taken = 10 + 6 2/3 = 16 2/3 days."
+  },
+  {
+    "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:",
+    "options": [
+      "4 days",
+      "6 days",
+      "8 days",
+      "12 days"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Suppose A, B and C take x, x/2 and x/3 days respectively to finish the work. Then, 1/x + 2/x + 3/x = 1/2 => 6/x = 1/2 => x = 12. So, B takes (12/2) = 6 days to finish the work."
+  },
+  {
+    "question": "A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days B had to leave and A alone completed the remaining work. The whole work was completed in :",
+    "options": [
+      "8 days",
+      "10 days",
+      "12 days",
+      "15 days"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "(A + B)'s 1 day's work = 1/15 + 1/10 = 1/6. Work done by A and B in 2 days = 2 * 1/6 = 1/3. Remaining work = 1 - 1/3 = 2/3. Remaining work done by A in = 15 * 2/3 = 10 days. Hence, total time taken = 10 + 2 = 12 days."
+  },
+  {
+    "question": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and A in 20 days. They all work together for 10 days when B and C leave. How many days more will A take to finish the work?",
+    "options": [
+      "18 days",
+      "24 days",
+      "30 days",
+      "36 days"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "2(A + B + C)'s 1 day's work = 1/30 + 1/24 + 1/20 = 1/8. Therefore, (A + B + C)'s 1 day's work = 1/16. Work done by A, B, C in 10 days = 10/16 = 5/8. Remaining work = 1 - 5/8 = 3/8. A's 1 day's work = 1/16 - 1/24 = 1/48. Extra days for A = (3/8) * 48 = 18 days."
+  },
+  {
+    "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+    "options": [
+      "3 : 4",
+      "4 : 3",
+      "5 : 3",
+      "1 : 1"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "1 woman's 1 day's work = 1/320. 1 man's 1 day's work = 1/240. Required ratio = (1/240) : (1/320) = 320 : 240 = 4 : 3."
+  },
+  {
+    "question": "A can do a piece of work in 10 days, B in 15 days. They work together for 5 days, the rest of the work is finished by C in two more days. If they get Rs. 3000 as wages for the whole work, what are the daily wages of A, B and C respectively (in Rs):",
+    "options": [
+      "200, 250, 300",
+      "300, 200, 250",
+      "200, 300, 400",
+      "150, 200, 250"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "A's 5 days work = 50%. B's 5 days work = 33.33%. C's 2 days work = 16.66%. Ratio of contribution of work of A, B and C = 3 : 2 : 1. A's total share = Rs. 1500, B's total share = Rs. 1000, C's total share = Rs. 500. A's one day's earning = Rs. 300, B's one day's earning = Rs. 200, C's one day's earning = Rs. 250."
+  },
+  {
+    "question": "12 men can complete a work in 8 days. 16 women can complete the same work in 12 days. 8 men and 8 women started working and worked for 6 days. How many more men are to be added to complete the remaining work in 1 day?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "24"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "1 man's 1 day work = 1/96; 1 woman's 1 day work = 1/192. Work done in 6 days = 6 * (8/96 + 8/192) = 6 * (1/8) = 3/4. Remaining work = 1/4. (8 men + 8 women)'s 1 day work = 1/8. Extra work needed in 1 day = 1/4 - 1/8 = 1/8. Since 1 man does 1/96 work daily, men needed to do 1/8 work = 96 * (1/8) = 12 men."
+  },
+  {
+    "question": "P can complete a work in 12 days working 8 hours a day. Q can complete the same work in 8 days working 10 hours a day. If both p and Q work together, working 8 hours a day, in how many days can they complete the work?",
+    "options": [
+      "60/11",
+      "61/11",
+      "71/11",
+      "72/11"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "P can complete the work in (12 x 8) hrs = 96 hrs. Q can complete the work in (8 x 10) hrs = 80 hrs. P's 1 hour work = 1/96, Q's 1 hour work = 1/80. (P+Q)'s 1 hour's work = 1/96 + 1/80 = 11/480. Working 8 hours a day, day's work = 8 * 11/480 = 11/60. Total days needed = 60/11."
+  }
+]
+}

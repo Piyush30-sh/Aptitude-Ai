@@ -1,0 +1,43 @@
+# Java / Maven build output
+/target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local user runtime data (do not upload)
+/aptitude_data/
+**/aptitude_data/
+/aptitude_settings.properties
+**/aptitude_settings.properties
+/aptitude_settings.properties.backup
+**/aptitude_settings.properties.backup
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Local environment config
+.env
+.env.*
+
+# Optional: ignore generated CSV/text reports if not meant for repo
+*.csv
+*.tsv
+
+# Keep project assets tracked; do not ignore source resources unless intentionally required

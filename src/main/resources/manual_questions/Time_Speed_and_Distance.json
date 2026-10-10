@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Your question here?",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctAnswer": "Option A",
+      "explanation": "Explanation of the correct answer here"
+    },
+    {
+      "question": "Another question?",
+      "options": ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
+      "correctAnswer": "Choice 2",
+      "explanation": "Why this choice is correct"
+    }
+  ]
+}
